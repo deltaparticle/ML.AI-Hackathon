@@ -1,0 +1,1 @@
+For Data Scaling, I used Robust Scaler, then MinMax Scaler and then took the square root of the elements of each column. For the model I used a neural network with five layers consisting of 28, 28, 16, 8 and 1 neurons.
